@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MvcEFCodeFirstCRUD",
+    "\\MvcEFCodeFirstCRUD\\Content",
+    "\\MvcEFCodeFirstCRUD\\Controllers",
+    "\\MvcEFCodeFirstCRUD\\Models",
+    "\\MvcEFCodeFirstCRUD\\Views",
+    "\\MvcEFCodeFirstCRUD\\Views\\Planets",
+    "\\MvcEFCodeFirstCRUD\\Views\\Shared"
+  ],
+  "SelectedNode": "\\MvcEFCodeFirstCRUD\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}
